@@ -1,0 +1,5 @@
+# === GOOGLE ADMOB ===
+google.com, pub-8228071292310844, DIRECT, f08c47fec0942fa0
+
+# === UNITY ADS ===
+unity3d.com, 23414, DIRECT, 2748e42f9b2d8298
