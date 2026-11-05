@@ -6,3 +6,18 @@ unity3d.com, 23414, DIRECT, 2748e42f9b2d8298
 
 # === IRONSOURCE ===
 ironsrc.com, 698547, DIRECT, 5678
+
+# === IRONSOURCE DIRECT & RESELLERS ===
+ironsrc.com, 698547, DIRECT, 5678
+google.com, pub-4712061491763784, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 18512, RESELLER, 0bfd66d529a55807
+pubmatic.com, 157796, RESELLER, 5d62404b127f01f2
+openx.com, 539659, RESELLER, 6a698e2da3be534e
+applovin.com, 520, RESELLER, 1c4e09f584ba68bb
+smartadserver.com, 2529, RESELLER, 4390a316dfc6ea24
+contextweb.com, 561917, RESELLER, 89ff1e01f60b94c7
+indexexchange.com, 185458, RESELLER, 50b84c3d2c8288de
+adyoulike.com, 1373, RESELLER, 7b568326bc6fc4e3
+sonobi.com, 1421, RESELLER, 1b9e2cb2c0ca9fb6
+implix.com, 1029, RESELLER, 2cfbd80c09ec3b7b
+triplelift.com, 1729, RESELLER, a562e8471c08bca0
